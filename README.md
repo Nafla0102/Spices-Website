@@ -33,9 +33,10 @@ Follow these steps to run the project locally:
 🌐 Live Demo
 You can view the live version of the Spices website by visiting this link:
 
-🔗 Spices Website Live Demo
+https://nafla0102.github.io/Spices-Website/
 
 📸 Screenshot
+
 
 ✍️ Author
 Created by AN. Fathima Nafla 👩‍💻.
