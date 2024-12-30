@@ -37,6 +37,8 @@ https://nafla0102.github.io/Spices-Website/
 
 📸 Screenshot
 
+![image](https://github.com/user-attachments/assets/60a4026d-fe4d-4261-abcb-3d1b19f97d8d)
+
 
 ✍️ Author
 Created by AN. Fathima Nafla 👩‍💻.
